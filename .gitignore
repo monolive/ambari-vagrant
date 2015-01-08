@@ -1,2 +1,3 @@
 *.swp
 insecure_private_key
+centos6.5/.vagrant/*
